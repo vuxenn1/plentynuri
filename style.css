@@ -1,0 +1,40 @@
+.bar{
+    background-color:rgba(206, 223, 235,0.7);
+    border-radius: 0.8em;
+    margin:20px;
+    box-shadow:3px 4px 12px 2px rgba(206, 223, 235, 0.6);
+    padding:-10px;
+}
+
+.baslik{
+    font-family:"Fjalla One";
+    font-size:185%;
+    color:rgba(227, 227, 227);
+}
+a:link,a:visited{
+            color:white;
+            text-decoration:none;
+}
+a:active,a:hover{
+            color:white;
+            text-decoration:none;
+            border-radius: 0.2em;
+            box-shadow: 0 8px 8px -4px rgba(177, 235, 252,0.9);
+}
+.kuut {
+            width: 600px;
+            margin: 5em auto;  /* margin kenarlar arası padding de içindeki kenarlar arası boşlukk */
+            background-color: rgba(256, 256, 256, .2);
+            border-radius: 0.5em;
+            box-shadow: 2px 3px 7px 2px rgba(0, 0, 4, 0.5);
+            align-items: center;
+}
+.icbas{
+    font-size:120px;
+    font-family:"Teko";
+}
+
+.icyazi{
+    font-family:"Questrial";
+    color:aliceblue;
+}
